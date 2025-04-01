@@ -1,3 +1,9 @@
+**This repo is just a modification of the original instaloader that aims to fix the bug that did not allow to download pics anonymously.**
+
+*For fun & personal use only.*
+
+-----------------------------------------------------
+
 .. image:: https://raw.githubusercontent.com/instaloader/instaloader/master/docs/logo_heading.png
 
 .. badges-start
